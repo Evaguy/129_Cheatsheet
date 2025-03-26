@@ -238,7 +238,9 @@ montrer les routes :
 sh ip route
 ```
 C --> entrée mis automatiquement 
+
 R --> entrée que nous avons configuré
+
 ## Tests (RIP2)
 pour voir la route sur un PC :
 ```
